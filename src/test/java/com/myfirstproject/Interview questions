@@ -1,0 +1,11 @@
+ 2. SECOND CLASS --------
+ 1) what is the difference between get and navigate.to
+ similarities: both opens a page URL
+ differences:
+  1)get() accepts te string URL, navigate can be used with to()
+ 2) get can not be used to go back, forward or refresh, navigate().to() CAN BE USED.
+  3) get() accepts only string data type but navigate().to() accepts string or URL as data type - parameter
+
+ 2) Difference between close and quit?
+ quit close every pages-windows in browser
+ close only close the last active page-window
