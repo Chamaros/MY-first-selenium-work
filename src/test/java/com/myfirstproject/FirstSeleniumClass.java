@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class FirstSeleniumClass {
     public static void main(String[] args) {
         //  1. this class should know which driver will be used. and where is that driver.
-        System.setProperty("webdriver.chrome.driver","./drivers/chromedriver");
+        System.setProperty("webdriver.chrome.driver","./drivers/chromedriver.exe");
         /* windows kullanicisi icin yukaridaki satirdaki chromedriver in sonuna .exe koymak zorundayiz
         DAHA DOGRUSU KLASOR ISMI chromedriver.exe degilse koymaya gerek yok */
 
