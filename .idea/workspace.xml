@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c79d1552-f92f-40a9-9482-5a799def039b" name="Changes" comment="march 26">
-      <change afterPath="$PROJECT_DIR$/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drivers/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day01_BasicNavigations_again.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day01_TitleVerification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day01_URLVerification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day01_WebDriverManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day02_Assertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day02_GetPageSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day02_JunitAnnotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day02_locatorsIntro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c79d1552-f92f-40a9-9482-5a799def039b" name="Changes" comment="june 4 first selenium work">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drivers/chromedriver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day01_BasicNavigations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/myfirstproject/FirstSeleniumClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myfirstproject/FirstSeleniumClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="chamaros &lt;hkarakas04@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -48,16 +37,16 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Problems",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ALFAHED\IdeaProjects\MY-first-selenium-work\drivers" />
@@ -155,6 +144,21 @@
       <option name="presentableId" value="Default" />
       <updated>1677362146261</updated>
     </task>
+    <task id="LOCAL-00001" summary="june 4 first selenium work">
+      <created>1685881701879</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685881701879</updated>
+    </task>
+    <task id="LOCAL-00002" summary="june 4 first selenium work">
+      <created>1685881797167</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685881797167</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -181,6 +185,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="march 26" />
-    <option name="LAST_COMMIT_MESSAGE" value="march 26" />
+    <MESSAGE value="june 4 first selenium work" />
+    <option name="LAST_COMMIT_MESSAGE" value="june 4 first selenium work" />
   </component>
 </project>
